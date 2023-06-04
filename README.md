@@ -1,21 +1,57 @@
-# Vorstellung der Volksrepublik China 🇨🇳 in Form einer Webseite
+# essentials
 
-> Projekt des Q1 Projektkurses in Erkunde am [Märkischen Gymnasium Hamm](https://www.maerkischesgymnasium.de/)
+## Project setup
 
-### **🚀 Live Demo** https://stackblitz.com/edit/q1-pjk1-china
- 
- - **Installation der Pakete** `yarn`
- - **Starten des Dev-Servers** `yarn dev`
- - **Automatisches Formatieren** `yarn lint`
- - Bauen der statischen Inhalte `yarn build`
- - Starten der Vorschau `yarn preview`
+```
+# yarn
+yarn
 
- Veröffentlicht unter der [MIT  Lizenz](https://github.com/mgh-hamm/ProjektChina/blob/main/LICENSE)
+# npm
+npm install
 
- Verwendete Pakete:
- - [Vue](https://vuejs.org/) 
- - [Vuetify](https://next.vuetifyjs.com/)
- - [Vue I18n](https://vue-i18n.intlify.dev/)
- - [Pinia](https://pinia.vuejs.org/)
- 
-### ❤️ Vielen Dank an [Stackblitz](https://stackblitz.com/) für das Bereitstellen der Live Demo
+# pnpm
+pnpm install
+```
+
+### Compiles and hot-reloads for development
+
+```
+# yarn
+yarn dev
+
+# npm
+npm run dev
+
+# pnpm
+pnpm dev
+```
+
+### Compiles and minifies for production
+
+```
+# yarn
+yarn build
+
+# npm
+npm run build
+
+# pnpm
+pnpm build
+```
+
+### Lints and fixes files
+
+```
+# yarn
+yarn lint
+
+# npm
+npm run lint
+
+# pnpm
+pnpm lint
+```
+
+### Customize configuration
+
+See [Configuration Reference](https://vitejs.dev/config/).
