@@ -1,8 +1,8 @@
 <template>
     <v-btn @click="overlay = !overlay">Quellen</v-btn>
 
-    <v-overlay v-model="overlay" class="align-center justify-center">
-        <v-card>
+    <v-overlay v-model="overlay" theme="light" class="align-center justify-center">
+        <v-card theme="dark">
             <v-card-title class="d-flex justify-center">Quellen</v-card-title>
 
             <div v-for="item in props.content" :key="item.source" class="d-flex ma-1 justify-start align-center pr-3">
