@@ -17,8 +17,8 @@
                 Dieses Land hatte über die Geschichte 8 große Dynastien, die vom Jahre 221 v. Chr. - 1911 nach Chr.
                 andauerten.
                 <br />
-                Ferner besitzt sind in dem Land noch der Konfuzianismus und der Daoismus entstanden.
-                <br />Dies sind anerkannte philosophische/religiöse Richtungen, die hauptsächlich Asien sehr stark vertreten
+                Ferner sind in dem Land noch der Konfuzianismus und der Daoismus entstanden.
+                <br />Dies sind anerkannte philosophische/religiöse Richtungen, die hauptsächlich in Asien sehr stark vertreten
                 werden.
                 <br />
             </p>
@@ -44,7 +44,7 @@
                     Seine Armee, mit der er den Krieg gewann, ist heute als Terrakotta-Armee bekannt. Sie besteht aus 8000
                     lebensgroßen Terrakotta-Statuen.
                     <br />
-                    Außerdem legte er den Grundstein für den Bau der Chinesischen Mauer,
+                    Außerdem legte er den Grundstein für den Bau der chinesischen Mauer,
                     die auf den Mauern der zuvor bestehenden Regionen aufbaute.
                 </p>
             </info-item>
@@ -66,7 +66,7 @@
                     In derselben Periode wurde der Konfuzianismus, der von Konfuzius (551 v. Chr. - 479 v. Chr.) gelehrt
                     wurde, als Staatsphilosophie anerkannt.
                     <br />
-                    Darüber hinaus verbreiteten sich der Taoismus, der zwischen dem 4. und 3. Jahrhundert v. Chr. aufkam,
+                    Darüber hinaus verbreiteten sich der Daoismus, der zwischen dem 4. und 3. Jahrhundert v. Chr. aufkam,
                     und der Buddhismus, der im 8. Jahrhundert n. Chr. auch in China präsent war, im Land.
                     <br />
                     Schließlich wurde das Bild der Han-Dynastie innerhalb Chinas noch deutlicher geprägt.
@@ -97,7 +97,7 @@
                     Außerdem
                     war dies eine Zeit, in der die Kaufleute nach Xi'an, damals Chang'an, strömten.
                     <br />
-                    Außerdem sind die Handelsrouten aufgrund der neuen Händler, über Land und See, ausgebaut, somit
+                    Des Weiteren sind die Handelsrouten aufgrund der neuen Händler, über Land und See, ausgebaut, somit
                     fluorierte die Exportindustrie.
                     <br />
                     Nennenswerte Erfindungen für den Handel sind Porzellan, Schießpulver,
@@ -131,7 +131,7 @@
                     Durch des neuen Regimes erfolgt eine Diskriminierung des der Han-Chinesen, eine Änderung des Namens der
                     Hauptstadt von Peking zu "Dadu".
                     <br />
-                    Durch die Erniedrigung der Han-Chinesen, sind Aufstände von diesen die
+                    Wegen der Erniedrigung der Han-Chinesen, sind Aufstände von diesen die
                     Folge.
 
                 </p>

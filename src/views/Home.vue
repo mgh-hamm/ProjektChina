@@ -2,11 +2,10 @@
   <v-timeline>
     <timeline-card title="Allgemeines" :big-dot="false" color="blue" expand-to="/allgemeines">
       <div>
-        Das eindrucksvolle, kulturelle, historisch prägende Land China befindet sich im östlichen Teil Asiens und
-        zählt zu den zweitmächtigsten Ländern weltweit.
+        Das eindrucksvolle, kulturell und historisch prägende Land China befindet sich im östlichen Teil Asiens und
+        zählt zu den mächtigsten Ländern weltweit weltweit.
         <br />
-        Obwohl es über das zweitstärkste Militär der Welt verfügt, ist es im Vergleich zu den USA in dieser Hinsicht
-        unterlegen.
+        Obwohl es über das zweitstärkste Militär der Welt verfügt, ist es in dieser Hinsicht den USA unterlegen.
         <br />
         Dennoch ist China mit dem höchsten BIP weltweit ein bedeutender wirtschaftlicher Akteur.
       </div>

@@ -76,10 +76,10 @@
                     <br />
                     Der ehemalige Staatschef wurde außerdem widerwillig abgeführt und nahm dennoch am 20. Parteitag an der
                     jeweiligen Sitzung teil.
-                    <br />Der angeführte ehemalige Staatschef behauptete, es ginge ihm "viel besser"
+                    <br />Dieser behauptete, es ginge ihm "viel besser"
                     als er aus dem Nebenraum wieder rauskam.
                     <br />
-                    Dieser mutmaßliche Akt der Machtdemonstration dient der Kontrolle des Volkes.
+                    Ein mutmaßlicher Akt der Machtdemonstration dient der Kontrolle des Volkes.
                     <br />
                     Darauf folgte die Besetzung des Politbüros durch Xi Jinpings jüngere vertraute Mitglieder.
                 </p>

@@ -21,8 +21,8 @@
                     Indien und den damit verlorenen Ressourcen.
                     <br />
                     So ziehen Sie einen Handel mit China in Betracht, weil das Land, für die damaligen Engländer, wichtige
-                    Güter besaß wie beispielsweise Tee und England war damals einer der größten Tee-Exporteure weltweit und
-                    der damalige Marktführer.
+                    Güter besaß wie beispielsweise Tee. Dazu kommt noch, dass England damals einer der größten Tee-Exporteure weltweit und
+                    der damalige Marktführer war.
                     <br />
                     China hat kein großes Interesse daran, mit dem Westen nach westlichen Maßstäben zu handeln.
                     <br />
@@ -79,9 +79,9 @@
                     und Repräsentant der britischen Regierung, sorgte, war Lin Zexu immer noch erzürnt und stellte den
                     Handel mit England ein.
                     <br />
-                    Die britischen Händler wurden vertrieben und flohen somit zu dem damaligen Hongkong.
+                    Die britischen Händler wurden vertrieben und flohen somit in das damalige Hongkong.
                     <br />
-                    Es fand eine Nahrungskrise statt.
+                    Es fand aufgrund eines Taifuns eine Nahrungskrise statt.
                     <br />Die britischen Schiffe wurde während der Beschaffung von einer chinesischen Flotte angegriffen.
 
                 </p>
@@ -124,7 +124,7 @@
                     chinesische Kaiser, da ohne Nanking und dem dazu kommenden Yangtse Fluß, welcher die
                     Hauptversorgungsquelle für die Hauptstadt ist, das chinesische Reich ineinander zusammenbrechen würde.
                     <br />
-                    Somit muss die chinesische Regierung die Forderungen der britischen Regierung erfüllen.
+                    Somit musste die chinesische Regierung die Forderungen der britischen Regierung erfüllen.
                     <br />
                     Es werden Handelsregeln durch Kompromisse festgelegt, Hongkong soll England gehören und sie kriegen 21
                     Millionen Pfund als Entschädigung für das zerstörte Opium.
